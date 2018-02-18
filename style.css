@@ -1,0 +1,78 @@
+/* Everything */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+  font-size: 100%;
+  font: inherit;
+}
+*:focus {
+  outline: none;
+}
+
+/* Background*/
+body{
+  background-color: #565656;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+}
+
+main{
+  background-color: #D7CEC7;
+  margin: 20px 50px;
+  border-radius: 50px;
+}
+
+h1{
+  font-size: 250%;
+  margin: 15px;
+  color: whitesmoke;
+}
+
+h2{
+  font-size: 140%;
+  padding: 15px 0 0 0;
+  color: #76213F;
+}
+
+h3{
+  padding: 0 0 15px 0;
+}
+
+
+/* Form */
+form{
+  display: block;
+}
+
+/* Area to input ladok */
+#textarea{
+  width: 90%;
+  height: 200px;
+  border: #565656 solid 2px;
+  background-color: whitesmoke;
+  text-align: left;
+  padding: 5px;
+  margin: 5px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 70%;
+  resize: none; 
+}
+
+/* Text showing avgGrade */
+#yourGrade{
+  color: #565656;
+  font-size: 175%;
+  padding: 0px 0px 15px 0px;
+}
+
+input[type="button"]{
+  font-size: 30px;
+  border-radius: 8px;
+  padding: 15px 15px;
+  margin-top: 10px;
+  object-position: center;
+  background-color: #C09f80;
+  border: #565656 solid 2px;
+  color: #565656;
+}

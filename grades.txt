@@ -1,0 +1,30 @@
+EITN41		Avancerad webbsäkerhet	7.5		4		2018-01-22		
+EDAN10		Konfigurationshantering	7.5		5		2018-01-12		
+EDAF80		Datorgrafik	7.5		3		2017-10-26		
+MIOA12		Industriell ekonomi, allmän kurs	6.0		4		2017-10-24		
+MAMN01		Avancerad interaktionsdesign	7.5		3		2017-06-27		
+ETSF01		Ingenjörsprocessen för programvaruutveckling - ekonomi och kvalitet	4.0		5		2017-06-14		
+ETS075		Kösystem	4.5		5		2017-05-29		
+FAFF25		Fysik	11.0		4		2017-03-17		
+EIT070		Datorteknik	6.0		3		2017-03-16		
+FMS012		Matematisk statistik, allmän kurs	9.0		3		2017-01-12		
+FRT010		Reglerteknik, allmän kurs	7.5		4		2017-01-10		
+EITF05		Webbsäkerhet	4.0		3		2016-10-28		
+ETT051		Digital kommunikation	7.5		3		2016-10-24		
+ETI265		Signalbehandling i multimedia	7.5		3		2016-06-02		
+EDA216		Databasteknik	7.5		5		2016-05-31		
+EDA095		Nätverksprogrammering	7.5		5		2016-05-31		
+EIT060		Datasäkerhet	7.5		4		2016-03-18		
+FMA430		Flerdimensionell analys	6.0		3		2016-01-12		
+FMA420		Linjär algebra	6.0		3		2016-01-11		
+ETSF05		Internetprotokoll	9.0		3		2015-12-18		
+TEK210		Kognition	4.5		5		2015-12-17		
+EDA061		Objektorienterad modellering och design	4.5		4		2015-11-19		
+FMAA01		Endimensionell analys	15.0		5		2015-08-29		
+ETSA05		Ingenjörsprocessen för programvaruutveckling - samhällsaspekter	4.0		5		2015-06-12		
+EIT100		Informationsöverföring	7.5		5		2015-06-05		
+ETSA01		Ingenjörsprocessen för programvaruutveckling - metodik	5.0		5		2015-06-02		
+MAMA15		Interaktionsdesign, grundkurs	7.5		5		2015-04-13		
+EDAA01		Programmeringsteknik - fördjupningskurs	7.5		5		2015-03-17		
+EDA016		Programmeringsteknik	7.5		5		2015-01-12		
+ETS130 		Kommunikationssystem	7.5		5		2014-10-25		

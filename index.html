@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>avgGrade</title>
+    <link rel="stylesheet" type="text/css" href='style.css'>
+    <script  type='text/javascript' src='scripts.js'></script>
+</head>
+
+<body>
+
+  <header>
+    <h1>Calcultate your avrage grade!</h1>
+  </header>
+<main>
+  <h2>To calcultate your avgrade grade, copy your Ladok into the textarea</h2>
+  <h3>The text does <u>not</u> have to be formatted, simple just copy and past the grades directly from Ladok</h3>
+
+  <form>
+    <textarea id="textarea" placeholder="Ex:
+FAFF25		Fysik	11.0		4		2017-03-17
+FRT010		Reglerteknik, allmän kurs	7.5		4		2017-01-10" rows="5" cols="50"/>
+</textarea>
+    <br>
+    <input type="button" value="Calculate" onclick="CalculateAvgGrade()"/>
+  </form>
+  <br>
+  <h2> YOUR AVRAGE GRADE IS: </h2><p id="yourGrade">Press the button to find out! </p>
+</main>
+
+</body>
+
+</html>
